@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi, I'm Rujul Salunkhe!
+👋 Hey there, I'm Rujul Salunkhe!
 </h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Always++Learning++New+Things+;Full+Stack+Web+Developer;Blockchain+%7C+Web+3.0+Enthusiast+;Keep+Growing)](https://git.io/typing-svg)
