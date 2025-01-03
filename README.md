@@ -6,8 +6,6 @@ Hi, I'm Rujul Salunkhe!
 
 ###
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rujulsalunkhe)](https://git.io/streak-stats)
-
 <br clear="both">
 
 <img align="right" height="0" src=""  />
