@@ -6,7 +6,7 @@ Hi, I'm Rujul Salunkhe!
 
 ###
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rujulsalunkhe&hide_total_contributions=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rujulsalunkhe)](https://git.io/streak-stats)
 
 <br clear="both">
 
