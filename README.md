@@ -1,6 +1,7 @@
 <h1 align="center">
 Hi, I'm Rujul Salunkhe!
 </h1>
+
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Always++Learning++New+Things+;Full+Stack+Web+Developer;Blockchain+%7C+Web+3.0+Enthusiast+;Keep+Growing)](https://git.io/typing-svg)
 
 
@@ -61,9 +62,7 @@ Hi, I'm Rujul Salunkhe!
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/rujul-salunkhe/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   <a href="salunkhe.rujul@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
