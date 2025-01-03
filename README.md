@@ -67,8 +67,10 @@ From building intuitive web platforms to exploring the limitless possibilities, 
 ###
 
 <div align="left">
+  <a href="https://www.linkedin.com/in/rujul-salunkhe" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <a href="mailto:salunkhe.rujul@gmail.com" target="_blank">
+  </a>
+    <a href="mailto:salunkhe.rujul@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="RujulSalunkhe" target="_blank">
